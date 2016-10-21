@@ -1,4 +1,6 @@
 Bonjour,
 
-Ce repository a été créé pour réaliser la première activité du cours "Gérez votre code avec Git et GitHub" sur Open classrooms.
+Ce repository a Ã©tÃ© crÃ©Ã© pour rÃ©aliser la premiÃ¨re activitÃ© du cours "GÃ©rez votre code avec Git et GitHub" sur Open classrooms.
+
+Je vous souhaite une agrÃ©able correction, et bonne chance pour cette activitÃ©.
 
